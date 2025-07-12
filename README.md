@@ -99,7 +99,3 @@ A real-time monitoring system for GitHub events using Flask, React, and MongoDB.
    - Check browser console for errors
    - Verify backend is accessible
    - Check CORS configuration
-
-## License
-
-MIT 
