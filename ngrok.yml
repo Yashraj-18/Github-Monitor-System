@@ -1,0 +1,7 @@
+version: "2"
+authtoken: 2zm2trRBl9BhevZqpX1VMuQlDdw_35aKHA3A7EHhz2sdHyNfo
+tunnels:
+  webhook:
+    proto: http
+    addr: 5000
+    domain: safe-proper-muskox.ngrok-free.app 
